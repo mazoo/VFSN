@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a128f6d-0a44-4b2f-895a-d43258a08bba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/conf_test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/font-awesome-ie7.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/font/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/font/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/font/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/font/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/font/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/admin_back_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/admin_back_top_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/alert-overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/animated-overlay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/back_in.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/bottom_back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button2a.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_alert.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_alert_big.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_alert_transparent.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_alert_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_back_big_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_back_red_big_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_green_large.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_green_large_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_green_trans.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_green_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_green_xl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_green_xl_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_green_xxl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_large.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_red_xl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_red_xl_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_xl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_xl_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_xxl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/button_xxl_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/error_back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/img1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/img2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/img3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/img5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/img6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/img7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/img8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/login_back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/logo_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/menu_aktiv_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/menu_back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/menu_back_sub_aktiv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/menu_back_sub_aktiv_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/message_back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/papoo_logo_metro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/pfeil_language.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/schrift_fuer_box.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/stamm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/tabs_nav_back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/tabs_nav_back_aktiv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/tabs_nav_back_aktiv_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/top_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/top_logo_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/top_logo_new2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_flat_10_000000_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_glass_100_fdf5ce_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_228ef1_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_ef8c08_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_ffd27a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/images/vtip_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/install2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/lang_file_de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/lang_file_en.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/leer.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/loginb1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/metro-bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/metro-bootstrap_papoo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/metro-bootstrap_papoo_xp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/papoo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/papoo_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/site_conf_vorl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/start.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/setup.bin/start.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/IEFixes_5_5_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/IEFixes_6_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/IEFixes_7_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/IEFixes_8_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/IEFixes_9_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/cc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/print_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/module.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/styles/vfsn/templates/__index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/menue_intern.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/menue_intern_neue_layout_struktur.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/nur_gal.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/styles_und_module.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/tidy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update1608.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update1806.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update1806.sql.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update360.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update360.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update361.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update361.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update370.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update370.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update371.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update373.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update376.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update400.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update408.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update411.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update412.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update413.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update414.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update420.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update502.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update600.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update601.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update_1811.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/update.bin/update_latest.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DockerExecCommand">
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:ac08d3f188be226355efdb1be22a2d5388f744dc8187ec81c480679a8484c48e" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:c5c2162c8f6d1d14d5387b1ee8e8754377899a23822d0df9407e68308907dff7" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:3c2ddf1f2839dd960b24c4797ce1228ff6ae5d12e30a341ff6abce71e68a1cd5" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:60327aaf8e9935119fdd17fe2bf3b17b0752447285041480279ca10241a2e2b3" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:4099dc5a05423d31b39680b1994b0b45bfba4537c498f71776e53530839310cb" />
+    </ExecCommand>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mnGKeyXnW5XPwFk2mohKwC821x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/styles/vfsn" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/styles/vfsn" />
+      <recent name="$PROJECT_DIR$/www/styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/styles/vfsn/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="VFSN" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mariadb" />
+              <option value="php" />
+              <option value="apache" />
+              <option value="traefik" />
+              <option value="mailhog" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a128f6d-0a44-4b2f-895a-d43258a08bba" name="Default Changelist" comment="" />
+      <created>1610121878614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610121878614</updated>
+      <workItem from="1610121881458" duration="13451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

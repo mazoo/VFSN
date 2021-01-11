@@ -1,0 +1,4 @@
+<?php
+define("PAPOO_EDITION", "Light");
+define("PAPOO_VERSION", "18.11");
+define("PAPOO_REVISION", "1483");
